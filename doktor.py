@@ -37,7 +37,7 @@ def main():
     try:
         genai.configure(api_key=benim_anahtarim)
         # Modeli seçiyoruz (Gemini Pro)
-        model = genai.GenerativeModel('gemini-pro')
+        model = genai.GenerativeModel('gemini-2.5-flash')
         print("Bağlantı Başarılı! Doktor şu an seni dinliyor. (Çıkmak için 'q' bas)")
     except Exception as e:
         print(f"Hata oluştu: {e}")
