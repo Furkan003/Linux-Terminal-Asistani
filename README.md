@@ -86,5 +86,3 @@ pip install -r requirements.txt
 4.  That's it\! Type `q` to exit the chat.
 
 -----
-
-\<p align="center"\>Made with ❤️ by \<b\>Furkan003\</b\>\</p\>
